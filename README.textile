@@ -1,0 +1,10 @@
+h1. ThiefMD Sample Novel
+
+This is the first 5 chapters of "Alice's Adventures in Wonderland":https://www.gutenberg.org/ebooks/28885 by Lewis Carroll
+
+It is provided as an example of how one can organize their novel in "ThiefMD":https://thiefmd.com
+
+The "author.md":https://github.com/ThiefMD/sample-novel/blob/master/author.md is an example of "ePub Metadata":https://pandoc.org/MANUAL.html#epub-metadata
+
+If you look at the structure, ThiefMD does a "preorder traversal":https://en.wikipedia.org/wiki/Tree_traversal of the files the way they're organized in the library.
+
